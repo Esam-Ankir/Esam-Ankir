@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
   <br/>
   <p align="center">
-    <a href="https://github.com/Esam-Ankir"><img alt="Esam-Ankir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esam-Ankir&show_icons=true&count_private=true&theme=black-ice&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Esam-Ankir"><img alt="Esam-Ankir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Esam-Ankir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   </p>
 <p align="center">
-    <a href="https://github.com/Esam-Ankir"><img alt="Esam-Ankir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esam-Ankir&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Esam-Ankir"><img alt="Esam-Ankir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esam-Ankir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
 </p>
 <br/>
 <br/>
